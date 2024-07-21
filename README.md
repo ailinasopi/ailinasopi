@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ailinasopi/ailinasopi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👩‍💼I am trying to integrate the  cybersecurity practices within business environments and looking for opportunities to explore emerging technologies and innovative approaches to cybersecurity & cloud security.                                                                                 
+🛠️ Actively engaged in cloud projects, improving my skills in data management, analysis, and cloud technologies.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc in Business Administration (specialization in Information Systems and Decision Making)
+
+## Skills
+
+![Azure](https://img.shields.io/badge/Azure-learner-blue)
+![Oracle](https://img.shields.io/badge/Oracle-enthusiast-red)
+![Python](https://img.shields.io/badge/Python-lover-yellow) 
+
+## Contact Me
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ailina-sopileidi/).
