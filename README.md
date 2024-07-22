@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile views](https://hits.dwyl.com/ailinasopi/ailinasopi.svg)
 
 ## About Me
 👩‍💼I am trying to integrate the  cybersecurity practices within business environments and looking for opportunities to explore emerging technologies and innovative approaches to cybersecurity & cloud security.                                                                                 
