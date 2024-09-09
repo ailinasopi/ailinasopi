@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile views](https://hits.dwyl.com/ailinasopi/ailinasopi.svg)
+![Profile views](https://komarev.com/ghpvc/?username=ailinasopi&color=blue)
 
 ## About Me
 👩‍💼I am trying to integrate the  cybersecurity practices within business environments and looking for opportunities to explore emerging technologies and innovative approaches to cybersecurity & cloud security.                                                                                 
